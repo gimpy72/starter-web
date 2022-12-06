@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Brandy Clark	gimpy72@gmail.com	@gimpy72
 
 # THANKS
 
