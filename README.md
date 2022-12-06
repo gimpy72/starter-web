@@ -13,3 +13,6 @@ This is just because I needed to edit something.
 ## Because He Said To
 
 This is because he told me to
+
+### Copyright
+2022 git.training
